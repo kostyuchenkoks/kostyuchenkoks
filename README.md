@@ -6,4 +6,5 @@ Hard skills
 
 Soft skills
 
-Follow me
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&gadgeColor=3390ec)](https://t.me/krissergevna)
