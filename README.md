@@ -1,6 +1,6 @@
 Header
 
-About me
+## I'm a beginner QA Engineer 
 
 Hard skills
 
